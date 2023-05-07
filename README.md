@@ -7,4 +7,4 @@ Database Management: Set up a MySQL database to store the processed data. Connec
 
 Visualization and Dashboard Creation: Use Streamlit and Plotly libraries to create an interactive and visually appealing dashboard. Create a user-friendly interface with multiple dropdown options for users to select different facts and figures to display. Use Plotly's built-in geo map functions to display the data on a map. Use the data in the dataframe to update the dashboard dynamically. Create at least 10 different dropdown options for users to select different facts and figures to display.
 
-Deployment: Ensure the solution is secure, efficient, and user-friendly. Test the solution thoroughly. Deploy the dashboard publicly, making it accessible to users. Host the dashboard on a cloud platform such as Heroku or AWS. Remember to write modular code, maintain proper documentation, and keep your GitHub repository updated. Good luck with your project!
+Deployment: Ensure the solution is secure, efficient, and user-friendly. Test the solution thoroughly. Deploy the dashboard publicly, making it accessible to users. 
